@@ -1,5 +1,8 @@
 public class Ram{
 
+void add(){
+}
+
 public static void main(String[] args){
 
 int a=10;
